@@ -3,6 +3,5 @@ class Something {
     System.out.println("hello world");
     System.out.println("under developement");
     System.out.println("you need some changes now");
-  //we are still developing wait you busted
 }
 }
