@@ -6,7 +6,7 @@ class Something {
     System.out.println("you need some changes now");
     System.out.println("I have fixed some bugs you have made some mistakes there");
     System.out.println("ok i have recieved that good one better");
-    //good to see you again
+    //good to see you again hey nice
   //we are still developing wait you busted
 }
 }
